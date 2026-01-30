@@ -1,0 +1,16 @@
+=== PART 1: FOR LOOP ===
+Sequence terms: 5.5 12.5 19.5 26.5 33.5 
+Sum: 97.5
+Average: 19.5
+
+=== PART 2: WHILE LOOP ===
+Sequence terms: 5.5 12.5 19.5 26.5 33.5 
+Sum: 97.5
+Average: 19.5
+
+=== PART 3: DO...WHILE LOOP ===
+Sequence terms (sum < 120): 5.5 12.5 19.5 26.5 33.5 
+Sum: 97.5
+Average: 19.5
+
+Results saved to output_task2.txt

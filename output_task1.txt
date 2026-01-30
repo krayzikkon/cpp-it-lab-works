@@ -1,0 +1,14 @@
+
+--- Arithmetic Operations ---
+A + B = 12
+A - B = -2
+A * B = 35
+A / B = 0.714286
+
+--- Increment/Decrement (Postfix) ---
+A++: 5 (now: 6)
+B++: 7 (now: 8)
+A--: 5 (now: 4)
+B--: 7 (now: 6)
+
+Results saved to output_task1.txt
